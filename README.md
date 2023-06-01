@@ -13,7 +13,6 @@ To install with pip on Windows, run:
 
     py -m pip install wizcoin
 
-
 Quickstart Guide
 ----------------
 
