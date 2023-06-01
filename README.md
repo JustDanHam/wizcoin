@@ -1,9 +1,12 @@
-# WizCoin
+WizCoin
+-------
 
 
 A Python module to represent the galleon, sickle, and knut coins of wizard currency.
 
-## Installation
+
+Installation
+------------
 
 To install with pip on macOS or Linux, run:
 
@@ -12,6 +15,7 @@ To install with pip on macOS or Linux, run:
 To install with pip on Windows, run:
 
     py -m pip install wizcoin
+
 
 Quickstart Guide
 ----------------
@@ -24,6 +28,7 @@ Here's some sample code demonstrating how this module is used:
     '2g, 5s, 10K'
     >>> coin.value()
     1141
+
 
 Contribute
 ----------
